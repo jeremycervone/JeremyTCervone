@@ -1,0 +1,324 @@
+body {
+	background-color: black;
+	background-size: cover;
+}
+body main{
+	margin-top: 0px;
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	height: 200px;
+	background-size: cover;
+	padding-top: 5px;
+	padding-bottom: 75px;
+}
+body p{
+	margin: 0px;
+}
+#Header h1{
+	color: #ffffff;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	font-size: 72pt;
+	text-align: center;
+}
+#AboutMe a{
+	float: left;
+	background-color: black;
+	font-size: 36pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-decoration: none;
+	margin-left: 170px;
+	margin-right: 150px;
+	text-align: center;
+}
+#Home a{
+	float: left;
+	background-color: black;
+	font-size: 36pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-decoration: none;
+	margin-left: 170px;
+	margin-right: 150px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	border-style: solid;
+	border-color: white;
+}
+#Designs a{
+	float: left;
+	background-color: black;
+	font-size: 36pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-decoration: none;
+	margin-left: 170px;
+	margin-right: 150px;
+	text-align: center;
+}
+#Intro p{
+	margin: 0px;
+	color: black;
+	background-color: #76777b;
+	font-size: 18pt;
+	text-align: left;
+	float: left;
+	width: 250px;
+	padding-left: 170px;
+	padding-right: 150px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+#JOAD h3{
+	font-size: 24pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-align: left;
+	padding-left: 620px;
+	border-top-style: solid;
+	border-color: #76777b;
+	margin-top: 0px;
+	padding-top: 16px;
+}
+#Reel video{
+	padding-left: 50px;
+	min-width: 427px;
+	min-height: 240px;
+}
+#Wel h3{
+	margin-bottom: 3px;
+}
+#Home a:hover{
+	color: #ffffff;
+}
+#AboutMe a:hover{
+	color: #ffffff;
+}
+#Designs a:hover{
+	color: #ffffff;
+}
+#Sum p{
+	font-size: 16pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-align: left;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-color: #76777b;
+}
+#Res img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	margin-top: 50px;
+}
+#Well h3{
+	border-bottom-style: solid;
+	border-color: #76777b;
+	margin-bottom: 0px;
+}
+#Row2 a{
+	text-decoration: none;
+	font-size: 16pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	float: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 105px;
+	margin-right: 105px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#Summ p{
+	font-size: 16pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-align: left;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-color: #76777b;
+	clear: left;
+}
+#Row2 a:hover{
+	color: #ffffff;
+}
+#GamesS a{
+	border-style: solid;
+	border-color: #ffffff;
+	margin-bottom: 8px;
+}
+#GReel video{
+	margin-top: 10px;
+	padding-left: 50px;
+	min-width: 640px;
+	min-height: 360px;
+}
+#GDR h3{
+	margin-top: 58px;
+	font-size: 24pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-align: left;
+	padding-left: 620px;
+	border-top-style: solid;
+	border-color: #76777b;
+	padding-top: 20px;
+}
+#TWWSU img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	margin-top: 50px;
+}
+#Summ h3{
+	font-size: 24pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-align: left;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 20px;
+	border-top-style: solid;
+	border-color: #76777b;
+	clear: left;
+}
+#Summ a{
+	text-decoration: none;
+	font-size: 16pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	text-align: left;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-bottom: 20px;
+}
+#Summ a:hover{
+	color: #ffffff;
+}
+#Pics img{
+	width: 400px;
+	float: left;
+}
+#Pics {
+	margin-left: 150px;
+	marin-right: 150px;
+}
+#Edits p{
+	margin-left: 150px;
+	font-size: 16pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	clear: left;
+	float: left;
+}
+#Aud {
+	padding-left: 150px;
+	clear: left;
+	border-top-style: solid;
+	border-color: #76777b;
+}
+#Aud h3{
+	font-size: 24pt;
+	color: #76777b;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+#Aud audio{
+	float: left;
+}
+#ERock {
+	clear: left;
+	margin-top: 10px;
+	border-top-style: dashed; 
+}
+#Alt {
+	clear: left;
+	margin-top: 10px;
+	border-top-style: dashed;
+}
+#ModC {
+	clear: left;
+	margin-top: 10px;
+	border-top-style: dashed;
+}
+#Info img{
+	margin-left: 150px;
+	max-width: 475px;
+	float: left;
+}
+#Web img{
+	margin-left: 150px;
+	max-width: 475px;
+	float: left;
+}
+#Neon img{
+	margin-top: 100px;
+}
+#Fin img{
+	float: left;
+	margin-left: 50px;
+	max-width: 700px;
+	margin-top: 13px;
+}
+#Images img{
+	margin-left: 90px;
+	max-width: 350px;
+	margin-top: 30px;
+}
+#Court img{
+	float: left;
+}
+#Paper img{
+	float: left;
+}
+#Girl img{
+	float: left;
+}
+#Prints img{
+	margin-left: 90px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+#Wood img{
+	max-width: 350px;
+	float: left;
+}
+#Zinc img{
+	max-width: 730px;
+	float: left;
+}
+#Logos img{
+	margin-left: 250px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	max-width: 150px;
+}
+#Gear7 img{
+	float: left;
+}
+#JTC img{
+	float: left;
+}
+#Neon img{
+	float: left;
+}
+
+
+
+
+
+
+
+
